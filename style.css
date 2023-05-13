@@ -99,3 +99,7 @@ body {
 .margin-10 {
     margin: 10px;
 }
+
+img {
+    border: 5px solid #1D7874;
+}
