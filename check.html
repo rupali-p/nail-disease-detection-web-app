@@ -23,7 +23,7 @@
 <body class="bg-light-blue-100">
     <header class="accent text-white">
         <div>
-            <h1 class="item-center inline-block px-00-50">💅🏽 Nail Techs</h1>
+            <h1 class="item-center inline-block px-00-50">Nail Techs</h1>
         </div>
 
         <div class="bg-light-blue-100">
@@ -45,12 +45,22 @@
                     Check Your Nails
                 </h2>
                 <div>
-                    <img src="433x433-square.png" style="width: 75%;"></img>
+                    <img src="images/433x433-square.png" style="width: 75%;"></img>
                 </div>
-                <div style="padding: 20px 00px;"><a href="diagnosis.html"><button class="btn px-00-50 text-white"
-                            style="padding: 20px; font-size: 150%;">Upload
-                            Image</button></a>
+                <div id="file-uploader" class="btn text-white"
+                    style="font-size: 150%; padding: 20px 00px; text-align: center; margin-top: 10px;">
+                    <input id="input" hidden type="file" />
+                    <label for="input" class="px-00-50; justify-content: center;">
+                        Upload Your Image</label>
                 </div>
+                <script src="image-handler.js"></script>
+                <div style="padding: 10px 00px;">
+                    <a href="diagnosis.html">
+                        <button class="btn px-00-50 text-white" style="padding: 20px; font-size: 150%;">Check Diagnosis
+                        </button>
+                    </a>
+                </div>
+
             </div>
             <div class="column">
                 <div>
@@ -60,13 +70,13 @@
                     <br />
                     <div class="flex row" style="text-align: center;">
                         <div class="column-3">
-                            <img src="433x433-square.png" style="width: 55%;"></img>
+                            <img src="images/nail1.jpeg" style="width: 55%;"></img>
                         </div>
                         <div class="column-3">
-                            <img src="433x433-square.png" style="width: 55%;"></img>
+                            <img src="images/nail2.jpeg" style="width: 55%;"></img>
                         </div>
                         <div class="column-3">
-                            <img src="433x433-square.png" style="width: 55%;"></img>
+                            <img src="images/nail3.jpeg" style="width: 55%;"></img>
                         </div>
                     </div>
 

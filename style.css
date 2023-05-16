@@ -77,7 +77,7 @@ body {
 
 .btn {
     height: 175%;
-    width: 75%;
+    width: 77%;
     background-color: #1D7874;
 }
 
@@ -98,4 +98,8 @@ body {
 
 .margin-10 {
     margin: 10px;
+}
+
+img {
+    border: 5px solid #1D7874;
 }

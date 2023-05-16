@@ -1,16 +1,27 @@
 # nail-disease-detection-web-app
 Nail health/disease object detection model provided in a web app
 
-Inital draft of webpage 
+Capture of current presentation of web app:
 
 About Us Page: 
-<img width="1280" alt="image" src="https://user-images.githubusercontent.com/79547654/236852832-6643869d-13af-40cb-92ad-b91721049a05.png">
+<img width="1280" alt="image" src="https://github.com/rupali-p/nail-disease-detection-web-app/assets/79547654/e92b288e-6f17-45ab-8dc2-46569a19c766">
+
 
 Check Your Nails: 
-<img width="995" alt="image" src="https://user-images.githubusercontent.com/79547654/236853100-21e11e54-970a-427f-a648-1a2b7c23785f.png">
+Before uplaoding image: 
+<img width="1266" alt="image" src="https://github.com/rupali-p/nail-disease-detection-web-app/assets/79547654/a43677f3-5fe4-420c-8780-a5b6887d05ad">
+
+After: 
+<img width="1263" alt="image" src="https://github.com/rupali-p/nail-disease-detection-web-app/assets/79547654/95ce4c21-de13-4a83-8bfd-e205a72d49df">
+
 
 Diagnosis: 
-<img width="962" alt="image" src="https://user-images.githubusercontent.com/79547654/236853194-7186d3aa-0efc-4eda-b909-67cc1efc0edd.png">
+<img width="1262" alt="image" src="https://github.com/rupali-p/nail-disease-detection-web-app/assets/79547654/74f4be0e-3519-4b1a-aa3b-a5dcd09d780d">
+
 
 To-Do: 
 Integrate model into web-page.
+
+Figma prototype: 
+https://www.figma.com/proto/TePQ5FOJlmQgfthoOi9biZ/DLCNN-web?page-id=0%3A1&node-id=0-1&starting-point-node-id=1%3A2&scaling=scale-down
+
